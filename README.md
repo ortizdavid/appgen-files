@@ -59,6 +59,6 @@
 <img src="AppGen Flow.jpg">
 
 
-## Demo
+## Generating API
 
 ![Generating API](Appgen-API.gif)
