@@ -1,6 +1,6 @@
 # appgen - tool for generate applications
 
-## DESCRIPTION:
+## Description:
 ### This tool helps create the structure of an application, including database
 ### For now it generates for Python and PHP
 
@@ -11,11 +11,11 @@
 - Add appgen to **PATH** environment variable
 
 
-## USAGE:
+## Usage:
 
 **appgen** **-name** application_name **-lang** language **-type** application_type **-db** <database>
 
-##  COMANDS:
+##  Commands:
 - **appgen**:     First command
 - **list-langs**: List all supported languages and applications
 - **help**:       Shows helps for appgen
@@ -24,7 +24,7 @@
 - **-type**:      Type of application (mvc, api)
 - **-db**:        database 
 
-## EXAMPLES:
+## Examples:
 
 1. Create a MVC App with Python and MySQL:
     ``
@@ -46,7 +46,7 @@
     appgen list-langs 
     ``                                                      
 
-## AUTHOR:
+## Author:
 - Name:         Ortiz de Arcanjo António David
 - Phone:        +244 936 166 699
 - Email:        ortizaad1994@gmail.com
@@ -57,3 +57,11 @@
 ## AppGen Flow
 
 <img src="AppGen Flow.jpg">
+
+
+## Demo
+
+<video width="320" height="240" controls>
+  <source src="AppGen-API.mp4" type="video/mp4">
+</video>
+
