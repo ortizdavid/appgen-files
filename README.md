@@ -61,4 +61,5 @@
 
 ## Generating API
 
-![Generating API](AppGen-API.mp4)
+![Generating API](Appgen-API.gif)
+
