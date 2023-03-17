@@ -61,7 +61,4 @@
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="AppGen-API.mp4" type="video/mp4">
-</video>
-
+<img src="AppGen-API.gif">
