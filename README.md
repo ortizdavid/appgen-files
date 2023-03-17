@@ -61,4 +61,4 @@
 
 ## Demo
 
-<img src="Appgen-API.gif">
+! [Generating API] (Appgen-API.gif)
