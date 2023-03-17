@@ -61,4 +61,4 @@
 
 ## Demo
 
-<img src="AppGen-API.gif">
+<img src="Appgen-API.gif">
